@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extrwave" align="left" alt="Extrwave's Github Stats" />
 
-* 😄 Welcome To My Github Page, This Is Extrwave
-* 👯 A Chinese Student From CQUPT
-* 💬 How To Reach Me: extrwave@gmail.com
+  * 😄 Welcome To My Github Page, This Is Extrwave
+  * 👯 A Chinese Student From CQUPT
+  * 💬 How To Reach Me: extrwave@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Extrwave&show_icons=true" align="left" alt="Extrwave's Github Stats" />
 
