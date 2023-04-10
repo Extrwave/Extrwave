@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extrwave" align="left" alt="Extrwave's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extrwave" align="right" alt="Extrwave's Github Stats" />
 
   * 😄 Welcome To My Github Page, This Is Extrwave
   * 👯 A Chinese Student From CQUPT
